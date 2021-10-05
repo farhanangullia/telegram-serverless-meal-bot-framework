@@ -1,1 +1,1 @@
-# telegram-meal-bot-framework
+# telegram-serverless-meal-bot-framework
